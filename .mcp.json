@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "betbuilders-ai": {
+      "type": "http",
+      "url": "https://www.betbuilders.ai/mcp"
+    }
+  }
+}
