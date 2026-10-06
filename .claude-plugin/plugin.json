@@ -1,7 +1,7 @@
 {
   "name": "betbuilders-ai",
   "displayName": "BetBuilders AI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Football and Swedish ice hockey match predictions, xG analysis, team statistics and a Monte Carlo match simulator from BetBuilders AI. Read-only analysis, no sign-in.",
   "author": {
     "name": "Football Analytics Sweden AB",
@@ -10,5 +10,16 @@
   },
   "homepage": "https://www.betbuilders.ai/support",
   "license": "MIT",
-  "keywords": ["football", "soccer", "hockey", "predictions", "xG", "expected goals", "match simulator", "statistics", "Premier League", "SHL"]
+  "keywords": [
+    "football",
+    "soccer",
+    "hockey",
+    "predictions",
+    "xG",
+    "expected goals",
+    "match simulator",
+    "statistics",
+    "Premier League",
+    "SHL"
+  ]
 }
